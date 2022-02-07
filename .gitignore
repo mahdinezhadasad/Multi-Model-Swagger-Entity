@@ -1,0 +1,3 @@
+# Project exclude paths
+/Parent-Module/Entity-Module/target/
+/Parent-Module/Swagger-Module/target/

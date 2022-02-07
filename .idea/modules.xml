@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Parent-Module/Entity-Module/Entity-Module.iml" filepath="$PROJECT_DIR$/Parent-Module/Entity-Module/Entity-Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Multi-Model-Swagger-Entity.iml" filepath="$PROJECT_DIR$/.idea/Multi-Model-Swagger-Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent-Module/Parent-Module.iml" filepath="$PROJECT_DIR$/Parent-Module/Parent-Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent-Module/Swagger-Module/Swagger-Module.iml" filepath="$PROJECT_DIR$/Parent-Module/Swagger-Module/Swagger-Module.iml" />
+    </modules>
+  </component>
+</project>
